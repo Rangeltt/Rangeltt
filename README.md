@@ -2,7 +2,7 @@
 
 </br>
 
-<bold> Sou um dev em formação com foco em Back-End, atualmente cursando Engenharia da Computação!! Novos projetos virão em breve, aguarde!! </bold>
+## Sou um dev em formação com foco em Back-End, atualmente cursando Engenharia da Computação!! Novos projetos virão em breve, aguarde!! 
 
 </br>
 
