@@ -1,5 +1,8 @@
 ## Olá, Meu nome é Matheus Rangel!
 </br>
+
+Sou um dev em formação com foco em Back-End, atualmente cursando Engenharia da Computação!!
+
 <a href="https://github.com/Rangeltt">
   
  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RafaBallerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
